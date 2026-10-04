@@ -1,0 +1,6 @@
+reseller_id,reseller_name,region,delivered_revenue,delivered_orders
+RS022,Mumbai Reseller 4,West,58763.98,35
+RS019,Mumbai Reseller 1,West,56647.13,40
+RS012,Hyderabad Reseller 6,South,52626.84,32
+RS005,Jaipur Reseller 5,North,50398.09,35
+RS006,Lucknow Reseller 6,North,48175.49,25
